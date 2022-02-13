@@ -7,4 +7,6 @@
 - Melhorando a manutenção de códigos com variáveis CSS.
 - Escrevendo códigos semânticos que ajudam na acessibilidade e SEO.
 - Aprendendo a lidar com adaptação de diferentes layouts.
- - Aprimorando seu conhecimento de responsividade.
+- Aprimorando seu conhecimento de responsividade.
+
+Link: https://carlacou.github.io/Layouts-Responsivos-Trabalhando-com-layouts-mobile/
