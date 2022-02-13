@@ -9,4 +9,5 @@
 - Aprendendo a lidar com adaptação de diferentes layouts.
 - Aprimorando seu conhecimento de responsividade.
 
-Link: https://carlacou.github.io/Layouts-Responsivos-Trabalhando-com-layouts-mobile/
+
+ ##### Link: https://carlacou.github.io/Layouts-Responsivos-Trabalhando-com-layouts-mobile/
